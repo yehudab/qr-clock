@@ -5,7 +5,7 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Amatic SC', 'sans-serif';
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .main-container {
@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   text-align: center;
   justify-content: center;
-  background: #26b777;
+  background: white;
   height: 100vh;
 }
 
@@ -22,4 +22,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.humak-date {
+  columns: block;
+  font-size: 2rem;
+}
+.humak-time {
+  columns: block;
+  font-size: 3.5rem;
 }

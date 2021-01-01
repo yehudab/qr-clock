@@ -2,6 +2,6 @@
 
 # QR-Clock :clock1:
 
-This useless repo aims to displays a clock with QR codes.
+Display a clock with QR codes. Can be used for syncing camera and phone clocks for geo-taging 
 
 > Every moment is unique, isn't it?
